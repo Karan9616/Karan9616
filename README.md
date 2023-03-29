@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm PUSHKARAN HS</h1>
-<h3 align="center"></h3>
+<h3 align="center">I am a Pre-final year undergrad at Sir M. Visvesvaraya Institute of Technology in Information Science.
+I am currently exploring the various technologies and frameworks that are used in IT industry.I also like Problem Solving and I'm currently into web development</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
